@@ -1,4 +1,4 @@
-### Hi there ![](Hi.gif)
+### Hi there ![](img src="Hi.gif" width=150px height=20px )
 
 <!--
 **Avinash-Gahlowt/Avinash-Gahlowt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
